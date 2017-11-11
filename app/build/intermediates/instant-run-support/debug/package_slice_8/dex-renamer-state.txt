@@ -1,0 +1,4 @@
+#Fri Nov 10 21:38:05 ICT 2017
+base.0=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\160
+renamed.0=classes.dex
+file.0=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\160\\classes.dex

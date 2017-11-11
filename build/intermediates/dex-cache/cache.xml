@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\99adb34ab8c88b6666579cb1fb3d887be6b7473d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_5d02b66579cc1c6b929f1b248a2fe347569aaf9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\cb9d0a3576b8aab191599a07345c1135ee62b7a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_c7e2a4b1bbca3a306911a916a23ff30a97ca4877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\e03629eb6d695dd2431293ebbfee952db095ead8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_51d34138dd6a53b4ad129d0dfcb6aff0cf1fca57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\9db8e14fc0ccad22ef3bba6b8d8496937e7058d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_42fbfd593fd5b1d6acc006f8d8dd9f2ae8cc10c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\fb36349faf650ddabf023328fe11bf0d240e635a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_431cb7cc2cfe82855119bfaa47719c5e6b5e15d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\72ff1606509c55513c3f6dcb57e737c389fff07e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_77a9c2047d8d27138016fdf202016af4dd410a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\0804e6246e5deb5bf7df913d7685bf34e4680fa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_c876c4b4946951403baf76ecdb4874839c6ff184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\d44bc9415d6a8952546922f11f055f36c7488354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_cdc2e482a3466e84f0e98d17c69834c4c92e3e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\937c48257576170e74ff3a9c7cf98771667b21cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_4d3468be38cc0d11f31a25e8b1af16d638e5afee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PMJB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\PMJB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c0436e94df7270f98b7967531dfc3e5e9672a1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\bdbf9a482e13ea89b7abd54efc98594eec806b4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_7a5ae180a777c0c422f1c1da7593dded99392a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\f9aa8088ec5d3831f40296ae171b9c644dc14e2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_cc23a793457a359455708bd960f8157dcf974e0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PMJB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ff7007c78c82b80be5bad380922f56826da7673">
+        <dex dex="E:\PMJB\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_06eb0c6292ae07f1f8eec7df92fe3e286dbb00b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\3d5642e49586ff34b105d33cd1a8aa104a4ba2b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_d2a8e78dad3efa5bf49c84755d0c5c322270d845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\ab9dd07f8899b6790cab503bc47c12609d375fec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_854b01c1466fae1e10cc5e11ca5d175b6753d800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_87fd7659bab60539d88f3e5d651435bbf0e2a3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_bc249905d74e69d406335db00d2a93f6c4e735e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\561ef2a6fdc495bc47f01bbe8b3cacb0eaaa1eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_b6f383b7e7dfb6ae61895f7b5c0e7fda631f2c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\11c7731f41bf8f2614e6e1b7d369296bd7470db7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_54602968143b9e1d5fbd5cf936c32facf4d47898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\64b92a0082c74a77119aa12f57291cc9c14fff78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_d6001d6397e7fa50e3ffe8f780a1689c7042a4fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\0577249c2f8554dcfc6124293ef98fb5ea42c587\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_9e9c476231b59ad2296c83e3a61f1d5897a728f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\449cfac7dce3dfebc79d8cf2e3ff78d970da8b40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_feff89d9cf885954d75e90a8005207d7f84c9754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\c052dccb5e7c3714d3e210b5f084403a3b507c49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_c4f3616c54fe3d30ee03c1b137eea8b676723ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\6e1c2fabca505f791049910ecc751a309ad5fd57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_39bc6c0036f8c454b95929d760f4675813c83786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dikta\.android\build-cache\d06c5cc73de22a5ede026f82c18dc9ddfdba1c46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\PMJB\app\build\intermediates\pre-dexed\debug\classes_4fd40e80743bf81fd1c5e44210e069f0dbdf1519.jar" />
+    </item>
+
+</items>

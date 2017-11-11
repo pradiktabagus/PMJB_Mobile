@@ -1,0 +1,7 @@
+#Wed Oct 25 20:58:13 ICT 2017
+base.0=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c0436e94df7270f98b7967531dfc3e5e9672a1e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06eb0c6292ae07f1f8eec7df92fe3e286dbb00b6\\classes.dex
+base.1=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06eb0c6292ae07f1f8eec7df92fe3e286dbb00b6
+file.0=E\:\\PMJB\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c0436e94df7270f98b7967531dfc3e5e9672a1e3\\classes.dex

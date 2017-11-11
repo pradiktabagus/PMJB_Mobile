@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\PMJB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.0.4.aar\\7978ef194281d8ef060083aea7f9c785\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "233,338",
+                        "endColumns": "104,99",
+                        "endOffsets": "337,437"
+                    },
+                    "to": {
+                        "startLines": "56,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "6473,6582",
+                        "endColumns": "108,103",
+                        "endOffsets": "6577,6681"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\7d97cf16f907ce6eedcaf844901510f1\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,390,581,707,816,1012,1132,1261,1465,1572,1759,1885,2078,2253,2339,2431",
+                        "endColumns": "106,190,125,108,195,119,128,203,106,186,125,192,174,85,91,113",
+                        "endOffsets": "389,580,706,815,1011,1131,1260,1464,1571,1758,1884,2077,2252,2338,2430,2544"
+                    },
+                    "to": {
+                        "startLines": "39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3956,4067,4258,4388,4501,4697,4821,5165,5369,5480,5667,5797,5990,6169,6259,6355",
+                        "endColumns": "110,190,129,112,195,123,132,203,110,186,129,192,178,89,95,117",
+                        "endOffsets": "4062,4253,4383,4496,4692,4816,4949,5364,5475,5662,5792,5985,6164,6254,6350,6468"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\f835bc97137656d65f3a8e4ddd9f1208\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "210",
+                        "endOffsets": "495"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4954",
+                        "endColumns": "210",
+                        "endOffsets": "5160"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.0.4.aar\\98bf6a7bc39b0d9b6a54b68264fa4689\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "237,312,429,497,572,658",
+                        "endColumns": "74,116,67,74,85,115",
+                        "endOffsets": "311,428,496,571,657,773"
+                    },
+                    "to": {
+                        "startLines": "58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "6686,6765,6886,6958,7037,7127",
+                        "endColumns": "78,120,71,78,89,119",
+                        "endOffsets": "6760,6881,6953,7032,7122,7242"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\9b475ae54fedf4d92e55e1f3229d6ac0\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "298,375,472,561,671,757,915,1035,1145,1259,1357,1462,1539,1635,1734,1838,1915,1990,2060,2142,2239,2339,2430,2526,2625,2695,2794,2886,2985,3099,3250,3351,3443,3548",
+                        "endColumns": "76,96,88,109,85,157,119,109,113,97,104,76,95,98,103,76,74,69,81,96,99,90,95,98,69,98,91,98,113,150,100,91,104,76",
+                        "endOffsets": "374,471,560,670,756,914,1034,1144,1258,1356,1461,1538,1634,1733,1837,1914,1989,2059,2141,2238,2338,2429,2525,2624,2694,2793,2885,2984,3098,3249,3350,3442,3547,3624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,186,287,380,494,584,746,870,984,1102,1204,1313,1394,1494,1597,1705,2178,2257,2331,2417,2518,2622,2717,2817,2920,2994,3097,3193,3296,3414,3565,3670,3766,3875",
+                        "endColumns": "80,100,92,113,89,161,123,113,117,101,108,80,99,102,107,80,78,73,85,100,103,94,99,102,73,102,95,102,117,150,104,95,108,80",
+                        "endOffsets": "181,282,375,489,579,741,865,979,1097,1199,1308,1389,1489,1592,1700,1781,2252,2326,2412,2513,2617,2712,2812,2915,2989,3092,3188,3291,3409,3560,3665,3761,3870,3951"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.0.4.aar\\651c428cf248e9cb6e629169acaed733\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "240",
+                        "endColumns": "108",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "64",
+                        "startColumns": "4",
+                        "startOffsets": "7247",
+                        "endColumns": "112",
+                        "endOffsets": "7355"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dikta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-11.0.4.aar\\f065f2ca80601bd0e4ee24047a7e57e0\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "288,429,572",
+                        "endColumns": "140,142,103",
+                        "endOffsets": "428,571,675"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1786,1927,2070",
+                        "endColumns": "140,142,107",
+                        "endOffsets": "1922,2065,2173"
+                    }
+                }
+            ]
+        }
+    ]
+}

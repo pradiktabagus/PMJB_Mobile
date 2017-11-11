@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_user.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_logout.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menghatirkan.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_menghatirkan.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pengaduan.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_pengaduan.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_perlu_perbaikan.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_perlu_perbaikan.png"
+    },
+    {
+        "merged": "E:\\PMJB\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
+        "source": "E:\\PMJB\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    }
+]

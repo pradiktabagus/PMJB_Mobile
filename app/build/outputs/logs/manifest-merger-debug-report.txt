@@ -1,0 +1,787 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\6f0115398e43a8f082f0c92855de499d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\f065f2ca80601bd0e4ee24047a7e57e0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\4a916716935da44dc9189ee17c886328\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b93e22ff09cfd3fd5778d9afcac2034f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:14:4-20:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\4832ca51aa57a92ca0d5c5502baa9dc1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\50b97c7976d8f3fab8acd6df50cf45c4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\7978ef194281d8ef060083aea7f9c785\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\651c428cf248e9cb6e629169acaed733\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\913a31ba5a746878fc6dcc18ca95dad6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\a991ace89a7d86df2c1f58d5ecf15cdd\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\98bf6a7bc39b0d9b6a54b68264fa4689\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\d2b25bff1cd7c868cdf0eeffde0dea71\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\3d188fee6023969328f69ef6dd4ab33b\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\5071a8e41a94d77a8a669e60f86940bd\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3b9d2dfe23850769203471c99986a77f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\e631940fc015ead7186f1f4d5fa06270\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\7597e70353718b484de0d34b6b5d3174\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\fb7954e9474135aa756f398b10c66c59\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\372775abe3b8b82cfc1546a6218e06db\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\e22c7986b8bf0552a2ccf77eafba364f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\8cf0d293af0701cf9efbc485f5369ba3\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\a5504f780ff1c6541df1b7432bf1e7de\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\899bae8dfaa095530e5b0dc2caedff68\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\c8cb86252229875f07c2503bf524c2be\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\38c33f6a6a44458fd8b51972d4e8d674\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\505963b8e402d59e845b35604a9baa80\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\5b327d447c91724d35ea3f5eaebd426f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\6aaf1345d7605c2a915ecc08a0db9449\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\0526dbea85aaa0b2b822c7b014edbc05\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\9bfed7d96d9c7d24430f5edf2222feda\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\a533defa985bab1be313a6f9e107a728\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5b0519ff8a7c0d196bd9bb7ae9dcff57\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\744429a05eb0ee3bb9dc88ffb8fac99b\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\d8e2c911474b39bb517c21473e56aac3\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\1b36e44e2c726123c79eb0334ab3e212\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\fd5ccd7a206d32ea9e5abb4136b99d78\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\98f15d7aa4d1bf870574b8cd95f955e2\AndroidManifest.xml:14:4-17:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9e10c9119566aca4a69af27101363077\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9044db9b6b93f1f87c2f36b4e90b003b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\edde22d14371f29f879fd5540804a437\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\c2aedbc5b97b00d19166fb98610e9154\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:13:5-98
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:13:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:20:22-77
+application
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:21:5-60:19
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\6f0115398e43a8f082f0c92855de499d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\6f0115398e43a8f082f0c92855de499d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\f065f2ca80601bd0e4ee24047a7e57e0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\f065f2ca80601bd0e4ee24047a7e57e0\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\4a916716935da44dc9189ee17c886328\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\4a916716935da44dc9189ee17c886328\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b93e22ff09cfd3fd5778d9afcac2034f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b93e22ff09cfd3fd5778d9afcac2034f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:17:5-19:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\4832ca51aa57a92ca0d5c5502baa9dc1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\4832ca51aa57a92ca0d5c5502baa9dc1\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\50b97c7976d8f3fab8acd6df50cf45c4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\50b97c7976d8f3fab8acd6df50cf45c4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\7978ef194281d8ef060083aea7f9c785\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\7978ef194281d8ef060083aea7f9c785\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\3d188fee6023969328f69ef6dd4ab33b\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\3d188fee6023969328f69ef6dd4ab33b\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3b9d2dfe23850769203471c99986a77f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3b9d2dfe23850769203471c99986a77f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\e631940fc015ead7186f1f4d5fa06270\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\e631940fc015ead7186f1f4d5fa06270\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\7597e70353718b484de0d34b6b5d3174\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\7597e70353718b484de0d34b6b5d3174\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\fb7954e9474135aa756f398b10c66c59\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\fb7954e9474135aa756f398b10c66c59\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\372775abe3b8b82cfc1546a6218e06db\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\372775abe3b8b82cfc1546a6218e06db\AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\e22c7986b8bf0552a2ccf77eafba364f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\e22c7986b8bf0552a2ccf77eafba364f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\8cf0d293af0701cf9efbc485f5369ba3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\8cf0d293af0701cf9efbc485f5369ba3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\a5504f780ff1c6541df1b7432bf1e7de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\a5504f780ff1c6541df1b7432bf1e7de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\c8cb86252229875f07c2503bf524c2be\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\c8cb86252229875f07c2503bf524c2be\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\38c33f6a6a44458fd8b51972d4e8d674\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\38c33f6a6a44458fd8b51972d4e8d674\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\505963b8e402d59e845b35604a9baa80\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\505963b8e402d59e845b35604a9baa80\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\5b327d447c91724d35ea3f5eaebd426f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\5b327d447c91724d35ea3f5eaebd426f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\6aaf1345d7605c2a915ecc08a0db9449\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\6aaf1345d7605c2a915ecc08a0db9449\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\0526dbea85aaa0b2b822c7b014edbc05\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\0526dbea85aaa0b2b822c7b014edbc05\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\9bfed7d96d9c7d24430f5edf2222feda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\9bfed7d96d9c7d24430f5edf2222feda\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5b0519ff8a7c0d196bd9bb7ae9dcff57\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5b0519ff8a7c0d196bd9bb7ae9dcff57\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\d8e2c911474b39bb517c21473e56aac3\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\d8e2c911474b39bb517c21473e56aac3\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\fd5ccd7a206d32ea9e5abb4136b99d78\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\fd5ccd7a206d32ea9e5abb4136b99d78\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\98f15d7aa4d1bf870574b8cd95f955e2\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\98f15d7aa4d1bf870574b8cd95f955e2\AndroidManifest.xml:16:5-19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9e10c9119566aca4a69af27101363077\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9e10c9119566aca4a69af27101363077\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9044db9b6b93f1f87c2f36b4e90b003b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9044db9b6b93f1f87c2f36b4e90b003b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\edde22d14371f29f879fd5540804a437\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\edde22d14371f29f879fd5540804a437\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\c2aedbc5b97b00d19166fb98610e9154\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\c2aedbc5b97b00d19166fb98610e9154\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:24:9-41
+	android:hardwareAccelerated
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:28:9-44
+	android:roundIcon
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:25:9-54
+	android:largeHeap
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:27:9-33
+	android:icon
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:29:9-40
+activity#pengaduan.pmjb.LoginActivity
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:fitsSystemWindows
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:30:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:35:27-74
+activity#pengaduan.pmjb.MainActivity
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:38:9-39:57
+	android:fitsSystemWindows
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:38:19-47
+activity#pengaduan.pmjb.pengaduan.FormMengaduActivity
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:40:9-66
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:40:19-64
+activity#pengaduan.pmjb.aduan.AduanActivity
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:41:9-42:47
+	android:fitsSystemWindows
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:41:19-54
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:52:9-54:75
+	android:value
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:54:13-72
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:53:13-58
+activity#pengaduan.pmjb.pengaduan.maps.MapsActivity
+ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:56:9-59:68
+	android:fitsSystemWindows
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:58:13-45
+	android:label
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml:57:13-56
+uses-sdk
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\6f0115398e43a8f082f0c92855de499d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\6f0115398e43a8f082f0c92855de499d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\f065f2ca80601bd0e4ee24047a7e57e0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\f065f2ca80601bd0e4ee24047a7e57e0\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\4a916716935da44dc9189ee17c886328\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\4a916716935da44dc9189ee17c886328\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b93e22ff09cfd3fd5778d9afcac2034f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b93e22ff09cfd3fd5778d9afcac2034f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:15:5-42
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\4832ca51aa57a92ca0d5c5502baa9dc1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\4832ca51aa57a92ca0d5c5502baa9dc1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\50b97c7976d8f3fab8acd6df50cf45c4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\50b97c7976d8f3fab8acd6df50cf45c4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\7978ef194281d8ef060083aea7f9c785\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\7978ef194281d8ef060083aea7f9c785\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\651c428cf248e9cb6e629169acaed733\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\651c428cf248e9cb6e629169acaed733\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:23:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\913a31ba5a746878fc6dcc18ca95dad6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\913a31ba5a746878fc6dcc18ca95dad6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\a991ace89a7d86df2c1f58d5ecf15cdd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\a991ace89a7d86df2c1f58d5ecf15cdd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\98bf6a7bc39b0d9b6a54b68264fa4689\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\98bf6a7bc39b0d9b6a54b68264fa4689\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\d2b25bff1cd7c868cdf0eeffde0dea71\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\d2b25bff1cd7c868cdf0eeffde0dea71\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\3d188fee6023969328f69ef6dd4ab33b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\3d188fee6023969328f69ef6dd4ab33b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\5071a8e41a94d77a8a669e60f86940bd\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\5071a8e41a94d77a8a669e60f86940bd\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3b9d2dfe23850769203471c99986a77f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\3b9d2dfe23850769203471c99986a77f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\e631940fc015ead7186f1f4d5fa06270\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\e631940fc015ead7186f1f4d5fa06270\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\7597e70353718b484de0d34b6b5d3174\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\7597e70353718b484de0d34b6b5d3174\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\fb7954e9474135aa756f398b10c66c59\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\fb7954e9474135aa756f398b10c66c59\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\372775abe3b8b82cfc1546a6218e06db\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\372775abe3b8b82cfc1546a6218e06db\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\e22c7986b8bf0552a2ccf77eafba364f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\e22c7986b8bf0552a2ccf77eafba364f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\8cf0d293af0701cf9efbc485f5369ba3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\8cf0d293af0701cf9efbc485f5369ba3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\a5504f780ff1c6541df1b7432bf1e7de\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\a5504f780ff1c6541df1b7432bf1e7de\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\899bae8dfaa095530e5b0dc2caedff68\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\899bae8dfaa095530e5b0dc2caedff68\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\c8cb86252229875f07c2503bf524c2be\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\c8cb86252229875f07c2503bf524c2be\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\fec304163ebdf0220071b0411ddd2ec3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\38c33f6a6a44458fd8b51972d4e8d674\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\38c33f6a6a44458fd8b51972d4e8d674\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\505963b8e402d59e845b35604a9baa80\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\505963b8e402d59e845b35604a9baa80\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\5b327d447c91724d35ea3f5eaebd426f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\5b327d447c91724d35ea3f5eaebd426f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\6aaf1345d7605c2a915ecc08a0db9449\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\6aaf1345d7605c2a915ecc08a0db9449\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\0526dbea85aaa0b2b822c7b014edbc05\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\0526dbea85aaa0b2b822c7b014edbc05\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\9bfed7d96d9c7d24430f5edf2222feda\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\9bfed7d96d9c7d24430f5edf2222feda\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\a533defa985bab1be313a6f9e107a728\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\a533defa985bab1be313a6f9e107a728\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\77fca8195b8f63d0b4cf882b6f836fad\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5b0519ff8a7c0d196bd9bb7ae9dcff57\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5b0519ff8a7c0d196bd9bb7ae9dcff57\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\744429a05eb0ee3bb9dc88ffb8fac99b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\744429a05eb0ee3bb9dc88ffb8fac99b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\d8e2c911474b39bb517c21473e56aac3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\d8e2c911474b39bb517c21473e56aac3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:22:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\1b36e44e2c726123c79eb0334ab3e212\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\1b36e44e2c726123c79eb0334ab3e212\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\fd5ccd7a206d32ea9e5abb4136b99d78\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\fd5ccd7a206d32ea9e5abb4136b99d78\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\98f15d7aa4d1bf870574b8cd95f955e2\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\98f15d7aa4d1bf870574b8cd95f955e2\AndroidManifest.xml:15:5-42
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9e10c9119566aca4a69af27101363077\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9e10c9119566aca4a69af27101363077\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9044db9b6b93f1f87c2f36b4e90b003b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9044db9b6b93f1f87c2f36b4e90b003b\AndroidManifest.xml:7:5-43
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\edde22d14371f29f879fd5540804a437\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\edde22d14371f29f879fd5540804a437\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\c2aedbc5b97b00d19166fb98610e9154\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\c2aedbc5b97b00d19166fb98610e9154\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+		ADDED from E:\PMJB\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PMJB\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\9b475ae54fedf4d92e55e1f3229d6ac0\AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8d90e6a5f3c6c051c5cacea30391a585\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\59decb94cb0f00c5757c43ed42e5cb39\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7201fd04cb4637be349389c24350a1d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef912ebd362e2fa37df5cf255c752b23\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0c85f89037567261aea471bbf45a03e0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fda0cf6cddbf09dcbb62494a1f59135c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\eec63850aa39c4492722d0a65a2ed4ec\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\450ab020f0f8cf17f89ec3090e2ac2c5\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c94edf32c959ae11179d870ad2740e67\AndroidManifest.xml:26:9-47
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\e434281b9fd8c552e5544862a7797474\AndroidManifest.xml:18:60-113
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\6c8a2dff67b5569e284cafb308eebb52\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\b7e5c1ddf94f61ced4f9e762e91ddfe8\AndroidManifest.xml:21:52-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\add10aa14561fc2d597bd0baea3743be\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\8a98109c09be1484eb13698df9f621f3\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\20187c9b612bab32718de0267a95f15f\AndroidManifest.xml:23:27-73
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\96138c07eef7ba253c371cbb0f9b9e5c\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\21966572c71f919d01ffa4d70da26e6b\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\7d97cf16f907ce6eedcaf844901510f1\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\850b7410816609335cdf9d358f310f3a\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\6d2908c1dbf587495a6cd36fd6a77999\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\f6d4a038bca69307df009d8bfa22af20\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\c48133f22cab4e95677129e7850fc7ff\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:17-71
+permission#pengaduan.pmjb.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:26:22-76
+uses-permission#pengaduan.pmjb.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+pengaduan.pmjb
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:33:27-58
+category#pengaduan.pmjb
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\8f06a8780ab7e8f6ff30ea20dd105f35\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\463064c6503d3b22a0d01cf592f9712a\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\031b32ce46f29495e505f940ad4b3298\AndroidManifest.xml:25:19-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\dikta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f835bc97137656d65f3a8e4ddd9f1208\AndroidManifest.xml:20:20-65
