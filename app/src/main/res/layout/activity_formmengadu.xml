@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000f32"
+    tools:context="pengaduan.pmjb.pengaduan.FormMengaduActivity">
+    <ScrollView
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/back_mengadu"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@null"
+                android:clickable="true"
+                android:src="@drawable/ic_back" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:text="Mengadu"
+                android:textSize="23dp" />
+
+            <ImageButton
+                android:id="@+id/save"
+                android:layout_alignParentRight="true"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@null"
+                android:clickable="true"
+                android:src="@drawable/ic_save" />
+
+            <EditText
+                android:id="@+id/nama"
+                android:layout_width="274dp"
+                android:layout_height="45dp"
+                android:layout_alignStart="@+id/kontak"
+                android:layout_below="@+id/back_mengadu"
+                android:layout_marginTop="31dp"
+                android:background="@drawable/rectanglebackground"
+                android:hint="Nama Pengadu"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp" />
+
+            <EditText
+                android:id="@+id/kontak"
+                android:layout_width="274dp"
+                android:layout_height="45dp"
+                android:layout_below="@+id/nama"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/rectanglebackground"
+                android:hint="No. Telp Pengadu"
+                android:inputType="number"
+                android:paddingLeft="20dp" />
+
+            <EditText
+                android:id="@+id/alamat"
+                android:layout_width="274dp"
+                android:layout_height="45dp"
+                android:layout_below="@+id/kontak"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/rectanglebackground"
+                android:hint="Alamat Pengadu"
+                android:inputType="textPostalAddress"
+                android:paddingLeft="20dp" />
+
+            <TextView
+                android:id="@+id/kondisiJalan"
+                android:layout_width="274dp"
+                android:layout_height="35dp"
+                android:layout_below="@+id/alamat"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Kondisi Jalan"
+                android:textSize="23dp" />
+
+            <RelativeLayout
+                android:id="@+id/image_kondisi_jalan"
+                android:layout_width="274dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/kondisiJalan"
+                android:layout_centerHorizontal="true"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/perluPerbaikan"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/rectanglebackground"
+                    android:clickable="true"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_perlu_perbaikan" />
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/perluPerbaikan"
+                    android:paddingBottom="12dp"
+                    android:text="Perlu Perbaikan"
+                    android:textAlignment="center" />
+
+                <ImageButton
+                    android:id="@+id/menghawatirkan"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/rectanglebackground"
+                    android:clickable="true"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_menghatirkan" />
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/menghawatirkan"
+                    android:paddingBottom="12dp"
+                    android:text="Menghawatirkan"
+                    android:textAlignment="center" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayoutUpload"
+                android:layout_width="274dp"
+                android:layout_height="100dp"
+                android:layout_below="@+id/image_kondisi_jalan"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="40dp">
+
+                <ImageView
+                    android:id="@+id/img_upload"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/addimage" />
+
+                <Button
+                    android:id="@+id/upload_btn"
+                    android:layout_width="150dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:background="@drawable/buttonupload"
+                    android:text="pilih gambar" />
+            </RelativeLayout>
+            <Button
+                android:id="@+id/mark_lokasi"
+                android:layout_width="274dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:text="Lokasi Pengaduan"
+                android:background="@drawable/buttonupload"
+                android:layout_centerInParent="true"
+                android:layout_below="@+id/relativeLayoutUpload"/>
+            <!--<TextView-->
+                <!--android:id="@+id/lokasi_detail"-->
+                <!--android:layout_width="274dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:layout_below="@+id/mark_lokasi"-->
+                <!--android:layout_centerInParent="true"/>-->
+            <android.support.v7.widget.CardView
+                android:layout_width="274dp"
+                android:layout_height="75dp"
+                android:layout_marginBottom="20dp"
+                android:layout_centerInParent="true"
+                card_view:cardBackgroundColor="#98f6f6f6"
+                app:cardCornerRadius="10dp"
+                android:layout_below="@id/mark_lokasi">
+                <EditText
+                    android:id="@+id/detail_lokasi"
+                    android:hint="Detail Lokasi"
+                    android:layout_width="274dp"
+                    android:layout_height="75dp" />
+            </android.support.v7.widget.CardView>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

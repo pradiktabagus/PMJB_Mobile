@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "344963741692",
+    "firebase_url": "https://skripsi-d269e.firebaseio.com",
+    "project_id": "skripsi-d269e",
+    "storage_bucket": "skripsi-d269e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344963741692:android:d704761a89685c11",
+        "android_client_info": {
+          "package_name": "pengaduan.pmjb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344963741692-imurv1pkftrjj2bche8lvevir9uvs5ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pengaduan.pmjb",
+            "certificate_hash": "1f12b10f165d41b144d580bc5db11132b2425601"
+          }
+        },
+        {
+          "client_id": "344963741692-l8b394cpsqhfe5te71q2s9924u1ubc5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-12BoDOqq034btodYJJYRvRpO5zBM_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344963741692-l8b394cpsqhfe5te71q2s9924u1ubc5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344963741692:android:86de9fca7d160b58",
+        "android_client_info": {
+          "package_name": "com.example.dikta.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344963741692-e3fb817907u9ote1hics7o8rniukbj9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dikta.login",
+            "certificate_hash": "1f12b10f165d41b144d580bc5db11132b2425601"
+          }
+        },
+        {
+          "client_id": "344963741692-l8b394cpsqhfe5te71q2s9924u1ubc5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-12BoDOqq034btodYJJYRvRpO5zBM_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344963741692-l8b394cpsqhfe5te71q2s9924u1ubc5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
