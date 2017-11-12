@@ -5,39 +5,57 @@ package pengaduan.pmjb.aduan;
  */
 
 public class aduan {
-   private String nama, judul, img, id_user;
+   private String id_pengaduan, latitude, img, longtitude, detail_lokasi, id_firebase;
    public aduan(){
 
    }
-   public aduan(String nama, String judul, String img, String id_user){
-       this.id_user = id_user;
-       this.nama = nama;
-       this.judul = judul;
+   public aduan(String id_pengaduan, String latitude, String img, String longtitude, String detail_lokasi, String id_firebase){
+       this.longtitude = longtitude;
+       this.id_pengaduan = id_pengaduan;
+       this.latitude = latitude;
        this.img = img;
+       this.detail_lokasi = detail_lokasi;
+       this.id_firebase = id_firebase;
    }
-   public String getId_user(){
-       return id_user;
+   public String getLongtitude(){
+       return longtitude;
    }
-    public void setId_user(String id_user){
-        this.id_user = id_user;
+    public void setLongtitude(String longtitude){
+        this.longtitude = longtitude;
     }
-    public String getNama(){
+    public String getId_pengaduan(){
 
-        return nama;
+        return id_pengaduan;
     }
-    public void setNama(String nama){
-        this.nama = nama;
+    public void setId_pengaduan(String id_pengaduan){
+        this.id_pengaduan = id_pengaduan;
     }
-    public String getJudul(){
-        return judul;
+    public String getLatitude(){
+        return latitude;
     }
-    public void setJudul(String judul){
-        this.judul = judul;
+    public void setLatitude(String latitude){
+        this.latitude = latitude;
     }
     public String getImg(){
         return img;
     }
     public void setImg(String img){
         this.img = img;
+    }
+
+    public String getDetail_lokasi() {
+        return detail_lokasi;
+    }
+
+    public void setDetail_lokasi(String detail_lokasi) {
+        this.detail_lokasi = detail_lokasi;
+    }
+
+    public String getId_firebase() {
+        return id_firebase;
+    }
+
+    public void setId_firebase(String id_firebase) {
+        this.id_firebase = id_firebase;
     }
 }

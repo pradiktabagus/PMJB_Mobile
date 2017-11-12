@@ -107,7 +107,7 @@ public class ApiVolley {
                 Map<String, String> params = new HashMap<String, String>();
                 params.put("Content-Type", "application/json");
                 params.put("Client-Service", "frontend-client");
-                params.put("Auth-Key", "plesir_blora");
+                params.put("Auth-Key", "pmjb");
                 return params;
             }
 

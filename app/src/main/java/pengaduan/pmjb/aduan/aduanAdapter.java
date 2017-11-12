@@ -51,12 +51,20 @@ public class aduanAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         View grid;
+        TextView textViewLokasi, textViewKondisiJalan, textViewWaktu, textViewProgress;
+        ImageView imageViewAduan;
         LayoutInflater inflater = (LayoutInflater)mContext
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         final aduan a = aduanList.get(position);
         if (convertView == null){
             grid = new ListView(mContext);
             grid = inflater.inflate(R.layout.list_aduan, null);
+            textViewLokasi = (TextView) grid.findViewById(R.id.nama_lokasi);
+            textViewKondisiJalan = (TextView) grid.findViewById(R.id.kondisi_jalan);
+            textViewWaktu = (TextView)grid.findViewById(R.id.waktuaduan);
+            textViewProgress = (TextView) grid.findViewById(R.id.progressaduan);
+            imageViewAduan = (ImageView) grid.findViewById(R.id.img_thumbnail);
+            textViewLokasi.setText(a.getDetail_lokasi());
         }else {
             grid = (View) convertView;
         }

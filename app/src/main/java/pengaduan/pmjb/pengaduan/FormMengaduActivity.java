@@ -96,7 +96,7 @@ public class FormMengaduActivity extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode == CODE_GALLERY_REQUEST && requestCode == RESULT_OK && data != null){
+        if (requestCode == CODE_GALLERY_REQUEST && resultCode == RESULT_OK && data != null){
             Uri filePath = data.getData();
             try {
                 InputStream inputStream = getContentResolver().openInputStream(filePath);
